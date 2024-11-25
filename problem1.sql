@@ -1,1 +1,4 @@
-
+CREATE TABLE song (
+    title VARCHAR(255) NOT NULL,
+    artist VARCHAR(255) NOT NULL
+);
